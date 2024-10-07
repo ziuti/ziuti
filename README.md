@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ziuti
 - 👀 I’m interested in cars
-- 📫 How to reach me karol.paska24@hotmail.com
+<!--- 📫 How to reach me karol.paska24@hotmail.com-->
 - 😄 Pronouns: he/him
 
 
